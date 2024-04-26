@@ -59,8 +59,6 @@ Esta metodología aprovecha las capacidades de la IA para agilizar el proceso, m
 
 # Herramientas y tecnologías
 
-¿Qué técnicas de prompting utilizarás? Justifica tus respuestas 
-
 En cuanto a las técnicas de prompting que se utilizarán, se emplearán diversas estrategias para obtener los mejores resultados posibles del modelo de IA generativa:
 
 - Prompts descriptivos y detallados: Se proporcionarán prompts que incluyan detalles completos sobre el requerimiento o funcionalidad a probar. Esto ayudará al modelo a comprender mejor el contexto y generar casos de prueba más precisos y relevantes.
